@@ -9,7 +9,7 @@ if pg.confirm(text='Want to send snap streaks?', buttons=["STREAKS", "STOPPPP!"]
 
     sleep(5)
 
-    os.system(r'start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory=Default --app-id=abdndmcckigaeepaljhpcngbfdkbiggb')
+    os.system(r'start "" "READ THE README.md FILE U PHAT FUK"')
 
     sleep(5) 
 
@@ -29,7 +29,7 @@ if pg.confirm(text='Want to send snap streaks?', buttons=["STREAKS", "STOPPPP!"]
     TextButtonx, TextButtony = pg.center(TextButton)
     pg.click(TextButtonx, TextButtony)
     sleep(0.2)
-    pg.write("Automated python streaks by Mitchell Gibbons. This is sent by a bot basically.")
+    pg.write("Automated python streaks. This is sent by a bot basically.")
 
     sleep(1)
 
