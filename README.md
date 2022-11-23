@@ -13,3 +13,4 @@ change the "person", "person2" and so on to your friends usernames.
 ## usage
 run the streaks.py file and click the streaks button.
 
+# fuk around wit it man. try changing some stuff. stuff might not work for u.
