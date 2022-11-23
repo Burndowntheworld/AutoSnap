@@ -2,7 +2,11 @@
 auto send snaps on snapchat
 
 ## setup
-copy target as shown in image1.png, paste it `os.system(r'start "" !!paste here!!')`
+download https://web.snapchat.com/ as a desktop shortcut
+
+open its properties
+
+copy target as shown in image1.png, paste it `os.system(r'start "" !!paste here!!')` in the streaks.py file
 
 change the "person", "person2" and so on to your friends usernames.
 
